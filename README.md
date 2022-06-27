@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jose-Luna-Pelaez
 - 👀 I’m interested in DevWeb and software development
-- 🌱 I’m currently learning Frontend/Backend
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any kind of DevWeb projects 
 - 📫 How to reach me: lunapelaezjose@gmail.com
 Learning every day to get in flow with programming.
